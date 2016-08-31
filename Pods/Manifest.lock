@@ -1,0 +1,23 @@
+PODS:
+  - NMAutoHeightTableCell (0.1.3):
+    - YYCache (~> 1.0.3)
+    - YYModel (~> 1.0.2)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - YYCache (1.0.3)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - NMAutoHeightTableCell (~> 0.1.3)
+  - SDWebImage (~> 3.7.2)
+
+SPEC CHECKSUMS:
+  NMAutoHeightTableCell: 3a831dc5a095c609a185907ccf4bd95809170296
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  YYCache: 282f35b5b0990833d0b7a06d864a87141a021da2
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: db6c011ede570e40cace2757050f8a559841a0e3
+
+COCOAPODS: 1.0.1

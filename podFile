@@ -1,0 +1,6 @@
+ platform :ios, ‘7.0‘
+target "ShoppingCartDemo" do
+    inhibit_all_warnings!
+ pod 'NMAutoHeightTableCell', '~> 0.1.3'
+ pod 'SDWebImage', '~> 3.7.2'
+ end
